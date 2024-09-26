@@ -1,10 +1,10 @@
-let gameNum =10;
-let userNum = prompt("Guess the game number:");
+// let gameNum =10;
+// let userNum = prompt("Guess the game number:");
 
-while (userNum != gameNum){
-    userNum =prompt("you entered wrong number.Guess again:");
-}
-console.log("Congratulation,you entered the right number");
+// while (userNum != gameNum){
+//     userNum =prompt("you entered wrong number.Guess again:");
+// }
+// console.log("Congratulation,you entered the right number");
 
 
 
